@@ -1,0 +1,6 @@
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\PracticaForm\PracticaForms.Presentacion\PracticaForms.Negocio\bin\Debug\PracticaForms.Negocio.dll
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\PracticaForm\PracticaForms.Presentacion\PracticaForms.Negocio\bin\Debug\PracticaForms.Negocio.pdb
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\PracticaForm\PracticaForms.Presentacion\PracticaForms.Negocio\obj\Debug\PracticaForms.Negocio.csprojAssemblyReference.cache
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\PracticaForm\PracticaForms.Presentacion\PracticaForms.Negocio\obj\Debug\PracticaForms.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\PracticaForm\PracticaForms.Presentacion\PracticaForms.Negocio\obj\Debug\PracticaForms.Negocio.dll
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\PracticaForm\PracticaForms.Presentacion\PracticaForms.Negocio\obj\Debug\PracticaForms.Negocio.pdb

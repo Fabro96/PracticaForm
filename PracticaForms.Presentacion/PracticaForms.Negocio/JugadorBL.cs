@@ -28,5 +28,9 @@ namespace PracticaForms.Negocio
         {
             _listaJugadores.Add(jugador);
         }
+        public void Insert(List<Jugador> lista)
+        {
+            _listaJugadores.AddRange(lista);
+        }
     }
 }
